@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://badge42.vercel.app/api/v2/cl27oa7tj005909l5a4invn59/stats?cursusId=21&coalitionId=78
 <!--
 **OussamaElouarti/OussamaElouarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
